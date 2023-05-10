@@ -1,1 +1,27 @@
-[{"projectUrl":"https://discord.gg/m9unBsKUBP","provider":"zmike808","name":"Risings' Custom AutoLogHop","description":"Risings' Custom 0 tick auto loghop OR tp","id":"risingscustomautologhop-plugin","releases":[{"date":"2023-05-04","sha512sum":"1B10CB37A552FA037EE53636014848E843C7DDEEC9A9BB5FBFF6AEDCAE8700CF8B67BB4527F8AC5BA81F4A660D8E346304CDEE2842A298019A0801B89574668D","version":"2.0.0","url":"https://github.com/zmike808/RisingCustom/blob/main/release/RisingCustom-autologhop-2.0.0.jar?raw=true","requires":"^1.0.0"}]}]
+[ {
+  "projectUrl": "",
+  "provider": "zmike808",
+  "name": "",
+  "description": "Risings' Custom 0 tick auto loghop OR tp",
+  "id": "risingscustomautologhop-plugin",
+  "releases": [ {
+      "date": "2023-05-04",
+      "sha512sum": "1B10CB37A552FA037EE53636014848E843C7DDEEC9A9BB5FBFF6AEDCAE8700CF8B67BB4527F8AC5BA81F4A660D8E346304CDEE2842A298019A0801B89574668D",
+      "version": "2.0.0",
+      "url": "https://github.com/zmike808/RisingCustom/blob/main/release/RisingCustom-autologhop-2.0.0.jar?raw=true",
+      "requires": "^1.0.0"
+    }]
+  }, {
+    "projectUrl": "",
+    "provider": "zmike808",
+    "name": "Risings' repackaged disco PNM",
+    "description": "Spooon's All-in-one plugin for Nightmare of Ashihama",
+    "id": "spoonnightmare-plugin",
+    "releases": [ {
+      "date": "2022-06-12",
+      "sha512sum": "D940F825A0EA37CF1519A430DD3C947A0EEF4B7FCAEBCCCA39774C65362D6ECD26691494A2E23AC5A986E4553822BC1DA814E47A3718538D58235EE533D511A3",
+      "version": "1.0.2",
+      "url": "https://github.com/zmike808/RisingCustom/blob/main/release/spoonnightmare-1.0.2.jar",
+      "requires": "^1.0.0"
+    } ]
+} ]
