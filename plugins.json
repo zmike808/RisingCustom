@@ -21,7 +21,7 @@
       "date": "2022-06-12",
       "sha512sum": "D940F825A0EA37CF1519A430DD3C947A0EEF4B7FCAEBCCCA39774C65362D6ECD26691494A2E23AC5A986E4553822BC1DA814E47A3718538D58235EE533D511A3",
       "version": "1.0.2",
-      "url": "https://github.com/zmike808/RisingCustom/blob/main/release/spoonnightmare-1.0.2.jar",
+      "url": "https://github.com/zmike808/RisingCustom/blob/main/release/spoonnightmare-1.0.2.jar?raw=true",
       "requires": "^1.0.0"
     } ]
 } ]
