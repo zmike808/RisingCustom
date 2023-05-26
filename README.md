@@ -12,4 +12,4 @@ last field (in red): leave empty
 
 
 full guide:
-https://imgur.com/a/H1Qvt5a
+![Imgur](https://imgur.com/a/H1Qvt5a
